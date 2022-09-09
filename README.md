@@ -1,7 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Akash Thakur</h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+CSE+Student+At+BIT+MESRA;FLUTTER+ANDROID+DEVELOPER;COMPITITIVE+CODING;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+CSE+Student+At+BIT+MESRA%20;FLUTTER+ANDROID+DEVELOPER;COMPETITIVE+CODING;DS%20|%20AI%20|%20ML%20ENTHUSIAST;ALWAYS%20LEARNING%20NEW%20THINGS&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -18,7 +19,7 @@
 
 - 📝 I have a strong interest in Competitive Programming and an ML Enthusiast
 
-- 🌟 Main languages: CPP, JAVA, DART, PYHTON
+- 🌟 Main languages: CPP, JAVA, DART, PYTHON
 - 🚩 Interested in ANDROID AND WEB-APP DEVELOPMENT USING FLUTTER
 - 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.
 </a>
