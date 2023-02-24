@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Thakur</h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+CSE+Student+At+BIT+MESRA%20;FLUTTER+ANDROID+DEVELOPER;COMPETITIVE+CODING;DS%20|%20AI%20|%20ML%20ENTHUSIAST;ALWAYS%20LEARNING%20NEW%20THINGS&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines= Final+Year+CSE+Student+At+BIT+MESRA%20;FLUTTER+ANDROID+DEVELOPER;COMPETITIVE+CODING;DS%20|%20AI%20|%20ML%20ENTHUSIAST;ALWAYS%20LEARNING%20NEW%20THINGS&center=true&width=380&height=45">
 	</a>
 </p>
 
